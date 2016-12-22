@@ -1,0 +1,19 @@
+{
+  "name": "page-template",
+  "version": "0.0.1",
+  "description": "A page template built all by mysefl... ish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "Francisco",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-sass": "^3.0.0"
+  }
+}
